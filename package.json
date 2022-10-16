@@ -9,6 +9,7 @@
 	"author": "johan.kanefur@mybonus.com",
 	"license": "MIT",
 	"dependencies": {
+		"@rushstack/eslint-patch": "^1.2.0",
 		"@typescript-eslint/eslint-plugin": "^5.40.0",
 		"@typescript-eslint/parser": "^5.40.0",
 		"@typescript-eslint/utils": "^5.40.0",
